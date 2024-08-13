@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Java Concept",
+      "category": "Studies",
+      "date": "Nov 7, 2022",
+      "image": "/images/Blog1.png",
+      "description": "Java is a high-level, object-oriented programming language known for its simplicity, readability, and portability. "
+    },
+    {
+      "title": "ChatGpt Tutorials",
+      "category": "Studies",
+      "date": "Aug ,8 2023",
+      "image": "/images/Blog2.png",
+      "description":"OpenAI comes from industry experts who want to bring AI to the masses."
+    },
+    {
+      "title": "Productivity Tips",
+      "category": "Studies",
+      "date": "Nov ,14 2023",
+      "image": "/images/Blog6.png",
+      "description":"Being a developer is not easy – it is a mentally demanding job that requires many soft and hard skills and a certain set of personal traits to work productively and not burn out."
+    },
+    {
+      "title": "Machine Learning ",
+      "category": "Studies",
+      "date": "Jan ,19 2024",
+      "image": "/images/Blog3.png",
+      "description":"Amazon is heavily involved in ML, using algorithms in nearly all areas of its business to create leads."
+    },
+    {
+      "title": "Web Design ",
+      "category": "Studies",
+      "date": "Jun ,22 2024",
+      "image": "/images/Blog4.jpeg",
+      "description":"In the digital age, the importance of web design cannot be overstated. It acts as the linchpin that holds a brand’s online presence together, often making the difference between a user staying on a site or leaving prematurely"
+    },
+    {
+      "title": "Data Analysis",
+      "category": "Studies",
+      "date": "Jun ,29 2024",
+      "image": "/images/Blog5.jpeg",
+      "description":"Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data."
+    }
+
+  ]

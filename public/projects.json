@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Rachna Architect",
+    "category": "Web design",
+    "image": "images/P5.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Swiggy: The Food Delivery App",
+    "category": "Web development",
+    "image": "images/P4.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Cult.Fit",
+    "category": "Web development",
+    "image": "images/P3.jpeg"
+  },
+  
+  {
+    "id": 5,
+    "title": "Job Portal",
+    "category": "Web development",
+    "image": "images/P6.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Stock Market Analysis",
+    "category": "Web development",
+    "image": "images/project-2.png"
+  },
+  {
+    "id": 7,
+    "title": "MarutiNandan FireWorks",
+    "category": "Upcoming Projects",
+    "image": "images/P2.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Parth International",
+    "category": "Upcoming Projects",
+    "image": "images/P1.avif"
+  },
+  {
+    "id": 9,
+    "title": "EduCare",
+    "category": "Web development",
+    "image": "images/P7.jpeg"
+  }
+]
