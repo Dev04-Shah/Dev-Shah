@@ -47,5 +47,11 @@
     "title": "EduCare",
     "category": "Web development",
     "image": "images/P7.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Youtube CLone(Frontend)",
+    "category": "Web development",
+    "image": "images/P8.jpeg"
   }
 ]
