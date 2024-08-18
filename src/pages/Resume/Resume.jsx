@@ -11,7 +11,7 @@ const Resume = () => {
       </header>
 
       <div className="download-resume">
-        <a href="/DevShah.pdf" download className="download-link button">
+        <a href="/Dev_Shah.pdf" download className="download-link button">
           <FaDownload className="icon" /> Download Resume
         </a>
       </div>
