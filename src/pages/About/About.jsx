@@ -149,6 +149,12 @@ const About = () => {
           </a>
         </li>
 
+         <li className="clients-item">
+          <a href="#">
+            <img src="images/Project6.jpg" height={150} alt="client logo"/>
+          </a>
+        </li>
+
         
 
       </ul>
