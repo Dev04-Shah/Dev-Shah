@@ -86,7 +86,7 @@ const Aside = () => {
           </li>
 
           <li className="social-item">
-            <a href="#" className="social-link">
+            <a href="https://www.linkedin.com/in/dev-shah-1b712724a/" className="social-link">
               <FaLinkedin  style={{ fontSize: '36px' }} />
             </a>
           </li>
