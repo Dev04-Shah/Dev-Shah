@@ -80,7 +80,7 @@ const Aside = () => {
 
         <ul className="social-list">
           <li className="social-item">
-            <a href="#" className="social-link">
+            <a href="https://github.com/Dev04-Shah" className="social-link">
               <FaGithub  style={{ fontSize: '36px' }} />
             </a>
           </li>
